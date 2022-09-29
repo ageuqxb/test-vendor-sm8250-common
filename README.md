@@ -1,0 +1,1 @@
+# test-vendor-sm8250-common
