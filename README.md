@@ -1,1 +1,1 @@
-# test-vendor-sm8250-common
+vendor-sm8250-common
